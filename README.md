@@ -21,4 +21,11 @@
 
 [Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
+## Future Scope 🔮
 
+We can also use different haarcascade files to detect different things and we can also detect that things using it. 
+
+## Applications 
+
+1) To handle the large databases haar cascade classifier is the best detector in terms of speed and reliability. 
+2) Even the image is affected by illumination, face detection results are more accurate using haar cascade classifier.
